@@ -17,7 +17,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 * Matheus de Oliveira Souza Santos
 * Michael Henrique Ferreira Dias
 * Sarah Sousa Saud
-* 
+
 ## Orientador
 
 * Fabio Leandro Rodrigues Cordeiro
